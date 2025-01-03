@@ -11,7 +11,7 @@
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
-<p align="center">
+<p align="center" style="animation: float 3s ease-in-out infinite;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -61,3 +61,12 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Harley2003&icon=0&color=0" alt="Visitor Count">
 </p>
+
+<!-- CSS Animations -->
+<style>
+  @keyframes float {
+    0% { transform: translatey(0px); }
+    50% { transform: translatey(-20px); }
+    100% { transform: translatey(0px); }
+  }
+</style>
