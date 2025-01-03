@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Harley 👋</h1>
-<h3 align="center">A passionate developer with a knack for blockchain and 3D web technologies</h3>
+<h3 align="center">I'm just a developer Front-End</h3>
 
 <!-- Social Links -->
 <p align="center">
